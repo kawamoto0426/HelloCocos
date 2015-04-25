@@ -14,6 +14,8 @@ public:
 		SHOOTING,
 		KAWAMOTO,
 
+		LIFE_GAME2,
+
 #ifndef NDEBUG
 		DEBUG
 #endif
